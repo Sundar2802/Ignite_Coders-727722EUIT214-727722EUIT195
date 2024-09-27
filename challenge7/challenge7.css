@@ -1,0 +1,16 @@
+.head
+{
+background-color:blue;
+}
+.grid-container {
+  display: grid;
+  margin-top:10%;
+  display:flex;
+}
+.row1
+{
+margin-top:10%;
+}
+.grid-items{
+padding:10px 10px 10px 10px;
+}
